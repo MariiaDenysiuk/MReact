@@ -9,3 +9,4 @@ var Step1 = (
 );
 
 console.log(Step1);
+MReact.render(Step1, root);
